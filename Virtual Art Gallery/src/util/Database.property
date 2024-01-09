@@ -1,0 +1,9 @@
+jdbc.url=jdbc:mysql://localhost:3306/virtual_art_gallery
+
+jdbc.username=root
+
+jdbc.password=Sachin@123
+
+jdbc.driver=com.mysql.cj.jdbc.Driver
+
+jdbc.property.path=D:\\hexaware_aasignment\\java\\Virtual Art Gallery\\src\\util\\Database.property;
